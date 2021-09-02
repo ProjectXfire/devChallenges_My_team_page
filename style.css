@@ -38,6 +38,13 @@ img {
   width: 100%;
 }
 
+footer {
+  color: #eeeeee;
+  margin-top: 30px;
+  font-size: 0.8rem;
+  text-align: center;
+}
+
 @media (max-width: 768px) {
   body {
     margin: 20px 50px;
